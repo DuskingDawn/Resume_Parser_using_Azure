@@ -13,7 +13,7 @@ The manual process of parsing resumes and extracting relevant information for re
 
 **Project Description:**
 
-The project aims to develop an automated resume parsing and candidate profile synthesis system using Natural Language Processing (NLP) techniques and Azure services. The system will provide a user-friendly GUI for recruiters to upload resumes, extract information, and interact with candidates. The key features of the project include:
+The project aims to develop an automated resume parsing and candidate profile synthesis system using Natural Language Processing (NLP) techniques and Azure services. The key features of the project include:
 
 1. Resume Format Conversion:
 Implement a module to handle different resume formats such as .docx, .doc, .pdf, .txt, etc. Use Azure Cognitive Services (such as Azure Form Recognizer) to extract text content from these files.
